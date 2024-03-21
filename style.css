@@ -1,0 +1,35 @@
+body{
+    overflow-x: hidden;
+    background-image:url(img/star-wars.jpg);
+}
+.card{
+    background-image: url(img/star-wars.jpg);
+}
+.card h5{
+    color: white;
+}
+.card p{
+    color: white;
+}
+.justify{
+    justify-content: center;
+}
+.align{
+    align-items:center ;
+    margin: auto;
+    padding: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.radio{
+    display: inline-flex;
+    margin-left: 550px;
+}
+.radio .form-check{
+    color: white;
+    display: inline-flex;
+    margin-right: 20px;
+}
+.form-check-input{
+    margin-right: 5px;
+}
